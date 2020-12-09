@@ -8,3 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I like to do play football and sleeping!!!!! :)
+<img src="https://github-readme-stats.vercel.app/api?username=cyberboysecurity&&show_icons=true&title_color=ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
